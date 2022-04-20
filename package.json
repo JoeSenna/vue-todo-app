@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "primeicons": "^5.0.0",
+    "primevue": "^3.12.4",
     "vue": "^3.2.13"
   },
   "devDependencies": {
